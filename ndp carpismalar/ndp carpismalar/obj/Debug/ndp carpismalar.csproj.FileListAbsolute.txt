@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\bin\Debug\ndp carpismalar.exe.config
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\bin\Debug\ndp carpismalar.exe
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\bin\Debug\ndp carpismalar.pdb
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp_carpismalar.Form1.resources
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp_carpismalar.Properties.Resources.resources
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.exe
+C:\Users\user\source\repos\ndp carpismalar\ndp carpismalar\obj\Debug\ndp carpismalar.pdb
